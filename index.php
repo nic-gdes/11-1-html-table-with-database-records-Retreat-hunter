@@ -8,7 +8,7 @@
 </head>
 <body>
 <header>
-    <h1>Products</h1>
+    <h1>html Products</h1>
 </header>
 <main>
     <div class="table-container">
